@@ -1,0 +1,15 @@
+package Kyokasho.chap7.Sample7_06;
+
+public class Main {
+    public static void main(String[] args) {
+        try {
+            // String s = null;
+            // int i1 = s.length();
+            // int i2 = Integer.parseInt(s);
+        } catch (NumberFormatException e) {
+            System.out.println(e.getMessage());
+        } catch (NullPointerException e) {
+            e.printStackTrace();
+        }
+    }
+}

@@ -1,4 +1,4 @@
-package Kyokasho.chap4.Mondai4_3;
+package Kyokasho.chap4.Mondai4_03;
 
 public class Main {
     public static void main(String[] args) {
