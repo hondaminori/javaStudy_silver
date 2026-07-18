@@ -1,4 +1,4 @@
-package Kyokasho.chap4.Sample04;
+package Kyokasho.chap4.Sample4_04;
 
 public class Main {
     public static void main(String[] args) {

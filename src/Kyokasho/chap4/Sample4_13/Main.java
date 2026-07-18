@@ -1,19 +1,17 @@
-package Kyokasho.chap4.Sample13_1;
+package Kyokasho.chap4.Sample4_13;
 
 public class Main {
     public static void main(String[] args) {
-        // outer:
+        outer:
         for (int i = 0; true; i++) {
             for (int j = 0; j < 5; j++) {
                 if (j == 3) {
                     System.out.println("i:" + i + " skip!");
-                    // continue outer;
-                    continue;
+                    continue outer;
                 }
                 if (i == 3) {
                     System.out.println("break!");
-                    // break outer;
-                    break;
+                    break outer;
                 }
                 System.out.println("i:" + i + " j:" + j);
             }
