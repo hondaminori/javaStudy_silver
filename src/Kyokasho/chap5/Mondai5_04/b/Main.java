@@ -1,6 +1,6 @@
-package b;
+package Kyokasho.chap5.Mondai5_04.b;
 
-import a.Foo;
+import Kyokasho.chap5.Mondai5_04.a.Foo;
 
 public class Main {
     public static void main(String[] args) {

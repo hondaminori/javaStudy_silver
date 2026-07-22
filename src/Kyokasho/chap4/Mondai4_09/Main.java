@@ -3,17 +3,17 @@ package Kyokasho.chap4.Mondai4_09;
 public class Main {
     public static void main(String[] args) {
         // 問題
-        int x = 10;
-        while (x != 0) {
-            System.out.print(x);
-            x--;
-        }
-
-        // // B
-        // int x;
-        // for (x = 10; !(x == 0); x--) {
+        // int x = 10;
+        // while (x != 0) {
         //     System.out.print(x);
+        //     x--;
         // }
+
+        // B
+        int x;
+        for (x = 10; !(x == 0); x--) {
+            System.out.print(x);
+        }
         // // C
         // for (int x = 10; x < 10; x--) {
         //     System.out.print(x);

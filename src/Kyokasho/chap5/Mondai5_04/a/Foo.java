@@ -1,4 +1,4 @@
-package a;
+package Kyokasho.chap5.Mondai5_04.a;
 
 public class Foo {
     /* x */ private int val;
