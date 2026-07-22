@@ -1,3 +1,5 @@
+package Kyokasho.chap6.Sample6_33;
+
 // import java.util.*;
 
 public class Main {

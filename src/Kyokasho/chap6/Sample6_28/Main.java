@@ -1,4 +1,4 @@
-
+package Kyokasho.chap6.Sample6_28;
 
 import java.util.ArrayList;
 

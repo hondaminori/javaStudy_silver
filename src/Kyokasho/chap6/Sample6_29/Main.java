@@ -1,3 +1,5 @@
+package Kyokasho.chap6.Sample6_29;
+
 import java.util.HashSet;
 
 public class Main {
